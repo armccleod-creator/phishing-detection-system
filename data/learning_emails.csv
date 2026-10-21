@@ -1,0 +1,13 @@
+label,sender,subject,body
+phishing,security@paypa1-alerts.com,"Urgent: Verify your account","Your account will be suspended today. Click the link immediately to verify your password."
+phishing,support@amaz0n-rewards.com,"You have won a gift card","Claim your reward now by entering your credit card details."
+phishing,alert@bank-security-check.com,"Suspicious login detected","Confirm your bank account information immediately to prevent closure."
+phishing,no-reply@account-update.net,"Password expires today","Click here now to reset your password and keep access to your account."
+phishing,help@irs-refund-center.com,"Tax refund available","Submit your Social Security number to receive your refund."
+phishing,admin@company-security.com,"Mailbox storage full","Verify your Microsoft account password to increase mailbox storage."
+legitimate,newsletter@school.edu,"Campus events this week","View this week's student events, club meetings, and workshops."
+legitimate,orders@store.com,"Your order has shipped","Your package has shipped and is expected to arrive on Friday."
+legitimate,professor@university.edu,"Reminder about tomorrow's class","Please bring your completed assignment to class tomorrow."
+legitimate,notifications@netflix.com,"New sign-in to your account","A new device signed in to your account. Review activity in your account settings."
+legitimate,team@workplace.com,"Weekly team meeting notes","Here are the notes and action items from today's team meeting."
+legitimate,library@university.edu,"Book due date reminder","This is a reminder that your borrowed book is due next week."
